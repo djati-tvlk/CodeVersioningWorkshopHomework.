@@ -1,3 +1,1 @@
-# merging/summary.txt
-
 Merging is saving your changes from your branch to the main repo/"tree". This will update your "tree" based on the edits that you made in the branch.
